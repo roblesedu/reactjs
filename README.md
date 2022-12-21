@@ -10,4 +10,4 @@ Espaço para revisitar fundamentos e aplicar conceitos utilizando o ReactJS atra
 
 # NextJS
 - [Fundamentos](https://github.com/roblesedu/reactjs/tree/main/nextjs/fundamentos)
-- [Projeto Cadastro - Integração com DB: Firebase]
+- [Projeto Cadastro - Integração com DB: Firebase](https://github.com/roblesedu/reactjs/tree/main/nextjs/next-crud)
