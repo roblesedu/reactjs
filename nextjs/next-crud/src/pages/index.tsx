@@ -1,4 +1,5 @@
 import Button from "../components/Button";
+import Form from "../components/Form";
 import Layout from "../components/Layout";
 import Table from "../components/Table";
 import Client from "../core/Client";
@@ -34,6 +35,7 @@ export default function Home() {
 					clientSelected={clientSelected}
 					clientDeleted={clientDeleted}
 				></Table>
+				<Form client={clients[0]}></Form>
 			</Layout>
 		</div>
 	)
