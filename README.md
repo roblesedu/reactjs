@@ -9,5 +9,5 @@ Espaço para revisitar fundamentos e aplicar conceitos utilizando o ReactJS atra
 - [React Hooks](https://github.com/roblesedu/reactjs/tree/main/hooks)
 
 # NextJS
-- [Fundamentos] (https://github.com/roblesedu/reactjs/tree/main/nextjs/fundamentos)
+- [Fundamentos](https://github.com/roblesedu/reactjs/tree/main/nextjs/fundamentos)
 - [Projeto Cadastro - Integração com DB: Firebase]
